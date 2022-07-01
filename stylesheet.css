@@ -123,10 +123,7 @@ main{
         border-bottom-left-radius: 0px;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
-    }
-
-    .product-image,.product-write-up{
-        height: 55vh;
+        height: 30vh;
         width: 100%;
     }
 
@@ -134,5 +131,7 @@ main{
         border-bottom-right-radius: 15px;
         border-bottom-left-radius: 15px;
         border-top-right-radius: 0px;
+        height: 50vh;
+        width: 100%;
     }
 }
