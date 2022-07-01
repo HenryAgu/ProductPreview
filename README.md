@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://Github.com/HenryAgu/NFTCard)
+- Solution URL: (https://github.com/HenryAgu/ProductPreview.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
