@@ -92,6 +92,7 @@ main{
     border-radius: 10px;
     cursor: pointer;
     transition: 0.3s ease;
+    margin-bottom: 20px;
 }
 
 .product-write-up button:hover{
