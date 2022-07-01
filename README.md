@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/HenryAgu/ProductPreview.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://jolly-pudding-5807d7.netlify.app/)
 
 ## My process
 
