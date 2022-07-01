@@ -126,12 +126,11 @@ main{
     }
 
     .product-image,.product-write-up{
-        height: 40vh;
+        height: 60vh;
         width: 100%;
     }
 
     .product-write-up{
-        height: 50vh;
         border-bottom-right-radius: 15px;
         border-bottom-left-radius: 15px;
         border-top-right-radius: 0px;
